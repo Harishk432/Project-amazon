@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-08T22:40:10 IST" name="Default suite" finished-at="2024-09-08T22:41:34 IST" duration-ms="83545">
+    <groups>
+    </groups>
+    <test started-at="2024-09-08T22:40:10 IST" name="Default test" finished-at="2024-09-08T22:41:34 IST" duration-ms="83545">
+      <class name="Amazon.amazontesting">
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:Amazon.amazontesting@5824a83d]" started-at="2024-09-08T22:40:10 IST" name="openchrome" finished-at="2024-09-08T22:41:06 IST" duration-ms="55466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="searchproduct()[pri:1, instance:Amazon.amazontesting@5824a83d]" started-at="2024-09-08T22:41:06 IST" name="searchproduct" finished-at="2024-09-08T22:41:14 IST" duration-ms="8325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+        <test-method signature="printsearchresults()[pri:2, instance:Amazon.amazontesting@5824a83d]" started-at="2024-09-08T22:41:14 IST" name="printsearchresults" finished-at="2024-09-08T22:41:16 IST" duration-ms="2253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printsearchresults -->
+        <test-method signature="sortbyprint()[pri:3, instance:Amazon.amazontesting@5824a83d]" started-at="2024-09-08T22:41:16 IST" name="sortbyprint" finished-at="2024-09-08T22:41:22 IST" duration-ms="5711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortbyprint -->
+        <test-method signature="printfirstfivemobiles()[pri:4, instance:Amazon.amazontesting@5824a83d]" started-at="2024-09-08T22:41:22 IST" name="printfirstfivemobiles" finished-at="2024-09-08T22:41:23 IST" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printfirstfivemobiles -->
+        <test-method is-config="true" signature="navigatemainmenu()[pri:0, instance:Amazon.amazontesting@5824a83d]" started-at="2024-09-08T22:41:23 IST" name="navigatemainmenu" finished-at="2024-09-08T22:41:34 IST" duration-ms="10688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatemainmenu -->
+      </class> <!-- Amazon.amazontesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
