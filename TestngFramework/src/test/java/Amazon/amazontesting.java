@@ -79,7 +79,7 @@ WebElement amazon;
 		for(int i=0;i<=5;i++) {
 			
 			System.out.println(product.get(i).getText());
-			
+	///		
 
 		}
 
