@@ -42,7 +42,7 @@ WebElement amazon;
 		amazon=driver.findElement(By.xpath("(//input[@class=\"nav-input nav-progressive-attribute\"])[2]"));
 		wait.until(ExpectedConditions.visibilityOf(amazon));
 		amazon.click();
-		//HI
+		
 			}
     
     @Test(priority=2)
