@@ -42,9 +42,9 @@ WebElement amazon;
 		amazon=driver.findElement(By.xpath("(//input[@class=\"nav-input nav-progressive-attribute\"])[2]"));
 		wait.until(ExpectedConditions.visibilityOf(amazon));
 		amazon.click();
-		//
+		
 			}
-    
+
     @Test(priority=2)
 	public void printsearchresults() throws IOException {
 		WebDriverWait wait= new WebDriverWait(driver,Duration.ofSeconds(5)); 
