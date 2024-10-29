@@ -21,7 +21,7 @@ import com.google.common.io.Files;
 public class baseclass {
 
 WebDriver driver;	
-	@BeforeTest
+
 	public void openchrome() throws IOException {
 		driver = new ChromeDriver();  
 		driver.get("https://www.amazon.in/");
